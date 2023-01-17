@@ -806,7 +806,7 @@
   (gr_text "POWER OUT" (at 147.32 92.964) (layer "F.SilkS") (tstamp 0eb65000-645d-47d2-b47f-c8812cafe6f3)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "STEPBUBODC01A\nMLAB" (at 140.97 101.092) (layer "F.SilkS") (tstamp 106ffebc-6054-4bf5-9cdc-b8a55e0df32f)
+  (gr_text "STEPBUBODC01A\nMLAB" (at 142.24 86.36) (layer "F.SilkS") (tstamp 106ffebc-6054-4bf5-9cdc-b8a55e0df32f)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "+3.3V/+5V\nOUT" (at 147.32 79.248) (layer "F.SilkS") (tstamp 153d7ee6-7f01-49fe-8530-4fcca957d0dd)
@@ -822,6 +822,9 @@
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "MODE SEL." (at 137.16 93.98) (layer "F.SilkS") (tstamp b455a8c9-2e32-435c-83df-45d96a799f3d)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (gr_text "PWM/PFM" (at 137.16 98.806) (layer "F.SilkS") (tstamp e29af917-512d-49a8-81e7-3bd0d84a9612)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 
