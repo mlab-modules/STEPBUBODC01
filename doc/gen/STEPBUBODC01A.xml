@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/STEPBUBODC01A.kicad_sch</source>
+    <date>Wed Jan 18 23:49:41 2023</date>
+    <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>STEPBUBODC01A.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>22uF</value>
+      <footprint>Mlab_C:SMD-0805</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed8449e7-b972-4d05-bd7d-5de6140984ca</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>47uF</value>
+      <footprint>Mlab_C:SMD-0805</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c02aec6e-49ab-44ef-92bf-22fed93f4fd3</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Mlab_C:SMD-0805</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e7a572e-c92b-46fc-a349-2878838eff06</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>M4</value>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fa49260-a948-4b3b-8bfd-697e5aa0e35a</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>3A</value>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b35fb956-95ef-40e8-a0d0-51bf3458bf57</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f970e869-1299-43b7-8b62-f4d034cd07e4</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05c29e5d-52a1-48f3-8030-0f7775f6b86e</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a58d0043-dee8-423f-a233-d03498e57fee</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3920e254-d67f-42cd-a2d7-3fe0830a48bd</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>HEADER_1x03</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_1x03" description="1x03 2.54 mm pitch header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f88b315-f533-458b-ae3b-a280d2a72631</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>HEADER_2x03_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>425ce6d6-240e-40a8-b232-4d7beb2f1088</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>HEADER_1x03</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_1x03" description="1x03 2.54 mm pitch header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>161829e0-d7c5-43ec-bf7d-9eeb70b03d5c</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>HEADER_1x03</value>
+      <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_1x03" description="1x03 2.54 mm pitch header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c8944ee-ff0a-45f3-959b-f80be1d42ac6</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>HEADER_2x03_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3a7feb4-18f1-422d-a30e-624997337d4f</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>HEADER_2x03_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82582b14-dcb5-4776-bcb2-c1b33865dd4d</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>1uH - DFE252012P-1R0M=P2</value>
+      <footprint>Inductor_SMD:L_1008_2520Metric</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54230352-2551-43c5-b1d1-cecc5fd9a3a5</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>91k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>031e653b-66df-47c4-8214-fab84f4cd180</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>511k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe343c57-ef38-43b0-9540-bb2ab88f20a2</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>806k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>111d6f91-5668-4b38-bc94-1669708a8dd0</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TPS631000DRLR</value>
+      <footprint>KiCad:SOTFL50P160X60-8N</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/tps631000.pdf?ts=1652152702265</datasheet>
+      <fields>
+        <field name="Description">Switching Voltage Regulators 1.5-A output current, high power density buck-boost converter</field>
+        <field name="Height">0.6</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TPS631000DRLR</field>
+        <field name="Mouser Part Number">595-TPS631000DRLR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS631000DRLR?qs=rSMjJ%252B1ewcRYwoN2deTeNA%3D%3D</field>
+      </fields>
+      <libsource lib="TPS631000DRLR" part="TPS631000DRLR" description="Switching Voltage Regulators 1.5-A output current, high power density buck-boost converter"/>
+      <property name="Description" value="Switching Voltage Regulators 1.5-A output current, high power density buck-boost converter"/>
+      <property name="Height" value="0.6"/>
+      <property name="Mouser Part Number" value="595-TPS631000DRLR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS631000DRLR?qs=rSMjJ%252B1ewcRYwoN2deTeNA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="TPS631000DRLR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62455161-b067-4d41-8716-6cc3430152f1</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_1x03">
+      <description>1x03 2.54 mm pitch header</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_1x03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL">
+      <description>2x03 2.54 mm pitch header, 2 pins next to each other are connected</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x03_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS631000DRLR" part="TPS631000DRLR">
+      <description>Switching Voltage Regulators 1.5-A output current, high power density buck-boost converter</description>
+      <docs>https://www.ti.com/lit/ds/symlink/tps631000.pdf?ts=1652152702265</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS631000DRLR</field>
+        <field name="Footprint">SOTFL50P160X60-8N</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/tps631000.pdf?ts=1652152702265</field>
+        <field name="Description">Switching Voltage Regulators 1.5-A output current, high power density buck-boost converter</field>
+        <field name="Height">0.6</field>
+        <field name="Mouser Part Number">595-TPS631000DRLR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS631000DRLR?qs=rSMjJ%252B1ewcRYwoN2deTeNA%3D%3D</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TPS631000DRLR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VOUT" type="passive"/>
+        <pin num="2" name="LX2" type="passive"/>
+        <pin num="3" name="LX1" type="passive"/>
+        <pin num="4" name="VIN" type="passive"/>
+        <pin num="5" name="EN" type="passive"/>
+        <pin num="6" name="MODE" type="passive"/>
+        <pin num="7" name="GND" type="passive"/>
+        <pin num="8" name="FB" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/FB">
+      <node ref="J4" pin="2" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="FB" pintype="passive"/>
+    </net>
+    <net code="2" name="/V_in">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="input"/>
+      <node ref="J3" pin="3" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="VIN" pintype="passive"/>
+    </net>
+    <net code="3" name="/V_out">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J5" pin="3" pintype="input"/>
+      <node ref="J5" pin="4" pintype="input"/>
+      <node ref="J6" pin="3" pintype="input"/>
+      <node ref="J6" pin="4" pintype="input"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VOUT" pintype="passive"/>
+    </net>
+    <net code="4" name="/en">
+      <node ref="J1" pin="2" pintype="input"/>
+      <node ref="U1" pin="5" pinfunction="EN" pintype="passive"/>
+    </net>
+    <net code="5" name="/mod">
+      <node ref="J3" pin="2" pintype="input"/>
+      <node ref="U1" pin="6" pinfunction="MODE" pintype="passive"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J1" pin="1" pintype="input"/>
+      <node ref="J2" pin="1" pintype="input"/>
+      <node ref="J2" pin="2" pintype="input"/>
+      <node ref="J2" pin="5" pintype="input"/>
+      <node ref="J2" pin="6" pintype="input"/>
+      <node ref="J3" pin="1" pintype="input"/>
+      <node ref="J5" pin="1" pintype="input"/>
+      <node ref="J5" pin="2" pintype="input"/>
+      <node ref="J5" pin="5" pintype="input"/>
+      <node ref="J5" pin="6" pintype="input"/>
+      <node ref="J6" pin="1" pintype="input"/>
+      <node ref="J6" pin="2" pintype="input"/>
+      <node ref="J6" pin="5" pintype="input"/>
+      <node ref="J6" pin="6" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(F1-Pad1)">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="input"/>
+      <node ref="J2" pin="4" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1" pintype="input"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(J4-Pad3)">
+      <node ref="J4" pin="3" pintype="input"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(L1-Pad1)">
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="LX1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(L1-Pad2)">
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="LX2" pintype="passive"/>
+    </net>
+  </nets>
+</export>
