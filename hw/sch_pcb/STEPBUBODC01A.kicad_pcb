@@ -104,7 +104,7 @@
       (effects (font (size 1.5 1.5) (thickness 0.15)))
       (tstamp 78ac7bb5-ff38-4c38-90af-9b50ca104e8f)
     )
-    (fp_text user "1" (at -1.651 -2.54 90) (layer "F.SilkS")
+    (fp_text user "1" (at -1.651 -2.54 90) (layer "F.SilkS") hide
       (effects (font (size 0.5 0.5) (thickness 0.05)))
       (tstamp e90e4187-6d94-4608-bccf-119cca5eb5a0)
     )
@@ -146,7 +146,7 @@
       (effects (font (size 1.5 1.5) (thickness 0.15)))
       (tstamp 91786cc6-5b5c-4d27-91f7-6acc3d896927)
     )
-    (fp_text user "1" (at -2.921 -2.54) (layer "F.SilkS")
+    (fp_text user "1" (at -2.921 -2.54) (layer "F.SilkS") hide
       (effects (font (size 0.5 0.5) (thickness 0.05)))
       (tstamp 10e6e64d-c01a-4213-822b-180679c4b8c9)
     )
@@ -248,7 +248,7 @@
       (effects (font (size 1.5 1.5) (thickness 0.15)))
       (tstamp c4e20671-18f7-490f-a9d4-b6dbe7006d1c)
     )
-    (fp_text user "1" (at -1.651 -2.54 90) (layer "F.SilkS")
+    (fp_text user "1" (at -1.651 -2.54 90) (layer "F.SilkS") hide
       (effects (font (size 0.5 0.5) (thickness 0.05)))
       (tstamp 18f6ff07-03eb-4997-a1d6-8db970fa7e96)
     )
@@ -290,7 +290,7 @@
       (effects (font (size 1.5 1.5) (thickness 0.15)))
       (tstamp 5aa65c74-3c9f-479a-98ab-6c5b9a3639a1)
     )
-    (fp_text user "1" (at -1.651 -2.54 90) (layer "F.SilkS")
+    (fp_text user "1" (at -1.651 -2.54 90) (layer "F.SilkS") hide
       (effects (font (size 0.5 0.5) (thickness 0.05)))
       (tstamp 59fa8411-08d1-4ee9-9b84-da7ea7c95dff)
     )
@@ -359,7 +359,7 @@
       (effects (font (size 1.5 1.5) (thickness 0.15)))
       (tstamp 8452cf01-7fd6-4596-99c5-2dbd5d0c4ce0)
     )
-    (fp_text user "1" (at -2.921 -2.54 90) (layer "F.SilkS")
+    (fp_text user "1" (at -2.921 -2.54 90) (layer "F.SilkS") hide
       (effects (font (size 0.5 0.5) (thickness 0.05)))
       (tstamp 2dcccf49-5cef-49c8-ae06-22cf1e49fd64)
     )
@@ -434,7 +434,7 @@
       (effects (font (size 1.5 1.5) (thickness 0.15)))
       (tstamp 3c5d1841-5ce5-4034-afc6-71db1b411737)
     )
-    (fp_text user "1" (at -2.921 -2.54) (layer "F.SilkS")
+    (fp_text user "1" (at -2.921 -2.54) (layer "F.SilkS") hide
       (effects (font (size 0.5 0.5) (thickness 0.05)))
       (tstamp 9a7efc58-6537-418e-9620-62255882cd49)
     )
@@ -809,7 +809,7 @@
   (gr_text "STEPBUBODC01A\nMLAB" (at 142.24 86.36) (layer "F.SilkS") (tstamp 106ffebc-6054-4bf5-9cdc-b8a55e0df32f)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "+3.3V/+5V\nOUT" (at 147.32 79.248) (layer "F.SilkS") (tstamp 153d7ee6-7f01-49fe-8530-4fcca957d0dd)
+  (gr_text "+3.3V/+5V\nOUT SEL." (at 147.32 79.248) (layer "F.SilkS") (tstamp 153d7ee6-7f01-49fe-8530-4fcca957d0dd)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "EN/DIS" (at 137.16 78.486) (layer "F.SilkS") (tstamp 38c82173-2be3-44ad-a1bc-7150545d298c)
@@ -818,7 +818,7 @@
   (gr_text "POWER OUT" (at 153.67 86.36 90) (layer "F.SilkS") (tstamp 46b75d12-ec01-4dfa-a043-0e24c8a038c5)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "POWER IN" (at 130.81 86.36 90) (layer "F.SilkS") (tstamp b14d78bd-8b71-49cd-b60e-87cdc3bc45a4)
+  (gr_text "POWER IN\n1.6-5.5V" (at 131.318 86.36 90) (layer "F.SilkS") (tstamp b14d78bd-8b71-49cd-b60e-87cdc3bc45a4)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "MODE SEL." (at 137.16 93.98) (layer "F.SilkS") (tstamp b455a8c9-2e32-435c-83df-45d96a799f3d)
