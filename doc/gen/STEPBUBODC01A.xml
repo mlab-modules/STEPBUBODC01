@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/STEPBUBODC01A.kicad_sch</source>
-    <date>Thu Apr 13 09:33:00 2023</date>
+    <date>Thu Apr 13 12:20:01 2023</date>
     <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -67,42 +67,6 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b35fb956-95ef-40e8-a0d0-51bf3458bf57</tstamps>
     </comp>
-    <comp ref="H1">
-      <value>MountingHole_Pad</value>
-      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>f970e869-1299-43b7-8b62-f4d034cd07e4</tstamps>
-    </comp>
-    <comp ref="H2">
-      <value>MountingHole_Pad</value>
-      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>05c29e5d-52a1-48f3-8030-0f7775f6b86e</tstamps>
-    </comp>
-    <comp ref="H3">
-      <value>MountingHole_Pad</value>
-      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>a58d0043-dee8-423f-a233-d03498e57fee</tstamps>
-    </comp>
-    <comp ref="H4">
-      <value>MountingHole_Pad</value>
-      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>3920e254-d67f-42cd-a2d7-3fe0830a48bd</tstamps>
-    </comp>
     <comp ref="J1">
       <value>HEADER_1x03</value>
       <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
@@ -165,6 +129,42 @@
       <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>54230352-2551-43c5-b1d1-cecc5fd9a3a5</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>HOLE M3</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="mlab-default-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>790d4638-5c48-40ab-8c74-37235fc3551e</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>HOLE M3</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="mlab-default-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d726789-76c3-4869-8a40-83d29cacb3af</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="mlab-default-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2605e266-3971-481c-9702-de29f7cc1c97</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="mlab-default-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55cfc125-4ec9-489c-a26b-5d3a67eb91c4</tstamps>
     </comp>
     <comp ref="R1">
       <value>91k</value>
@@ -332,21 +332,6 @@
         <pin num="6" name="" type="input"/>
       </pins>
     </libpart>
-    <libpart lib="Mechanical" part="MountingHole_Pad">
-      <description>Mounting Hole with connection</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>MountingHole*Pad*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">H</field>
-        <field name="Value">MountingHole_Pad</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="input"/>
-      </pins>
-    </libpart>
     <libpart lib="TPS631000DRLR" part="TPS631000DRLR">
       <description>Switching Voltage Regulators 1.5-A output current, high power density buck-boost converter</description>
       <docs>https://www.ti.com/lit/ds/symlink/tps631000.pdf?ts=1652152702265</docs>
@@ -373,13 +358,19 @@
         <pin num="8" name="FB" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="mlab-default-rescue" part="HOLE">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
   </libparts>
   <libraries>
     <library logical="Device">
       <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
-    </library>
-    <library logical="Mechanical">
-      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -420,10 +411,6 @@
       <node ref="C2" pin="2" pintype="passive"/>
       <node ref="C3" pin="2" pintype="passive"/>
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
       <node ref="J1" pin="1" pintype="input"/>
       <node ref="J2" pin="1" pintype="input"/>
       <node ref="J2" pin="2" pintype="input"/>
@@ -438,6 +425,10 @@
       <node ref="J6" pin="2" pintype="input"/>
       <node ref="J6" pin="5" pintype="input"/>
       <node ref="J6" pin="6" pintype="input"/>
+      <node ref="M1" pin="1" pintype="input"/>
+      <node ref="M2" pin="1" pintype="input"/>
+      <node ref="M3" pin="1" pintype="input"/>
+      <node ref="M4" pin="1" pintype="input"/>
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="U1" pin="7" pinfunction="GND" pintype="passive"/>
     </net>

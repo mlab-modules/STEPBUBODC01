@@ -7,10 +7,12 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 6,1x03 2.54 mm pitch header,HEADER_1x03,J1 J3 J4,HEADER_1x03,Straight_1x03,3, ,,,,,,
 7,"2x03 2.54 mm pitch header, 2 pins next to each other are connected",HEADER_2x03_PARALLEL,J2 J5 J6,HEADER_2x03_PARALLEL,Straight_2x03,3, ,,,,,,
 8,Inductor,L,L1,1uH - DFE252012P-1R0M=P2,L_1008_2520Metric,1, ,~,,,,,
-9,Resistor,R,R1,91k,SMD-0805,1, ,~,,,,,
-10,Resistor,R,R2,511k,SMD-0805,1, ,~,,,,,
-11,Resistor,R,R3,806k,SMD-0805,1, ,~,,,,,
-12,"Switching Voltage Regulators 1.5-A output current, high power density buck-boost converter",TPS631000DRLR,U1,TPS631000DRLR,SOTFL50P160X60-8N,1, ,https://www.ti.com/lit/ds/symlink/tps631000.pdf?ts=1652152702265,0.6,595-TPS631000DRLR,https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS631000DRLR?qs=rSMjJ%252B1ewcRYwoN2deTeNA%3D%3D,Texas Instruments,TPS631000DRLR
+9,,HOLE,M3 M4,HOLE,MountingHole_3mm,2, ,,,,,,
+10,,HOLE,M1 M2,HOLE M3,MountingHole_3mm,2, ,,,,,,
+11,Resistor,R,R1,91k,SMD-0805,1, ,~,,,,,
+12,Resistor,R,R2,511k,SMD-0805,1, ,~,,,,,
+13,Resistor,R,R3,806k,SMD-0805,1, ,~,,,,,
+14,"Switching Voltage Regulators 1.5-A output current, high power density buck-boost converter",TPS631000DRLR,U1,TPS631000DRLR,SOTFL50P160X60-8N,1, ,https://www.ti.com/lit/ds/symlink/tps631000.pdf?ts=1652152702265,0.6,595-TPS631000DRLR,https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS631000DRLR?qs=rSMjJ%252B1ewcRYwoN2deTeNA%3D%3D,Texas Instruments,TPS631000DRLR
 
 
 
@@ -20,11 +22,11 @@ Project info:
 Schematic:,STEPBUBODC01A
 Variant:,default
 Revision:,
-Date:,2023-04-13_09-32-49
+Date:,2023-04-13_12-19-57
 KiCad Version:,6.0.11+dfsg-1~bpo11+1
 Statistics:
-Component Groups:,12
-Component Count:,16
-Fitted Components:,16
+Component Groups:,14
+Component Count:,20
+Fitted Components:,20
 Number of PCBs:,1
-Total Components:,16
+Total Components:,20
