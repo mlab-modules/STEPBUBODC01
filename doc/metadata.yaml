@@ -1,0 +1,18 @@
+description: Buck-boost convertor TSP631000
+github_branch: STEPBUBODC01A
+github_branches:
+- STEPBUBODC01A
+- main
+github_repo: STEPBUBODC01
+github_url: https://github.com/mlab-modules/STEPBUBODC01
+homepage: false
+image: doc/gen/img/STEPBUBODC01A-bottom.png
+images:
+- doc/gen/img/STEPBUBODC01A-bottom.png
+- doc/gen/img/STEPBUBODC01A-top.png
+- doc/gen/STEPBUBODC01A-schematic.svg
+issues: 2
+mark: 50
+mod_scheme: doc/gen/STEPBUBODC01A-schematic.pdf
+tags: []
+title: STEPBUBODC01
