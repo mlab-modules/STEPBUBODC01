@@ -8,8 +8,8 @@ github_url: https://github.com/mlab-modules/STEPBUBODC01
 homepage: false
 image: doc/gen/img/STEPBUBODC01A-bottom.png
 images:
-- doc/gen/img/STEPBUBODC01A-bottom.png
 - doc/gen/img/STEPBUBODC01A-top.png
+- doc/gen/img/STEPBUBODC01A-bottom.png
 - doc/gen/STEPBUBODC01A-schematic.svg
 issues: 2
 mark: 50
