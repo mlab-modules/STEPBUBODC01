@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/github/workspace/hw/sch_pcb/STEPBUBODC01A.kicad_sch</source>
-    <date>Tue Jan 24 16:04:10 2023</date>
-    <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
+    <source>/github/workspace/hw/sch_pcb/STEPBUBODC01.kicad_sch</source>
+    <date>Wed Jul  5 12:12:06 2023</date>
+    <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
         <company/>
         <rev/>
         <date/>
-        <source>STEPBUBODC01A.kicad_sch</source>
+        <source>STEPBUBODC01.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -29,7 +29,7 @@
       <footprint>Mlab_C:SMD-0805</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ed8449e7-b972-4d05-bd7d-5de6140984ca</tstamps>
     </comp>
@@ -38,7 +38,7 @@
       <footprint>Mlab_C:SMD-0805</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c02aec6e-49ab-44ef-92bf-22fed93f4fd3</tstamps>
     </comp>
@@ -47,7 +47,7 @@
       <footprint>Mlab_C:SMD-0805</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3e7a572e-c92b-46fc-a349-2878838eff06</tstamps>
     </comp>
@@ -55,7 +55,7 @@
       <value>M4</value>
       <libsource lib="Device" part="D" description="Diode"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7fa49260-a948-4b3b-8bfd-697e5aa0e35a</tstamps>
     </comp>
@@ -63,7 +63,7 @@
       <value>3A</value>
       <libsource lib="Device" part="Fuse" description="Fuse"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b35fb956-95ef-40e8-a0d0-51bf3458bf57</tstamps>
     </comp>
@@ -72,7 +72,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f970e869-1299-43b7-8b62-f4d034cd07e4</tstamps>
     </comp>
@@ -81,7 +81,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>05c29e5d-52a1-48f3-8030-0f7775f6b86e</tstamps>
     </comp>
@@ -90,7 +90,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a58d0043-dee8-423f-a233-d03498e57fee</tstamps>
     </comp>
@@ -99,7 +99,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3920e254-d67f-42cd-a2d7-3fe0830a48bd</tstamps>
     </comp>
@@ -108,7 +108,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_1x03" description="1x03 2.54 mm pitch header"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2f88b315-f533-458b-ae3b-a280d2a72631</tstamps>
     </comp>
@@ -117,7 +117,7 @@
       <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>425ce6d6-240e-40a8-b232-4d7beb2f1088</tstamps>
     </comp>
@@ -126,7 +126,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_1x03" description="1x03 2.54 mm pitch header"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>161829e0-d7c5-43ec-bf7d-9eeb70b03d5c</tstamps>
     </comp>
@@ -135,7 +135,7 @@
       <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_1x03" description="1x03 2.54 mm pitch header"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1c8944ee-ff0a-45f3-959b-f80be1d42ac6</tstamps>
     </comp>
@@ -144,7 +144,7 @@
       <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c3a7feb4-18f1-422d-a30e-624997337d4f</tstamps>
     </comp>
@@ -153,7 +153,7 @@
       <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>82582b14-dcb5-4776-bcb2-c1b33865dd4d</tstamps>
     </comp>
@@ -162,7 +162,7 @@
       <footprint>Inductor_SMD:L_1008_2520Metric</footprint>
       <libsource lib="Device" part="L" description="Inductor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>54230352-2551-43c5-b1d1-cecc5fd9a3a5</tstamps>
     </comp>
@@ -171,7 +171,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>031e653b-66df-47c4-8214-fab84f4cd180</tstamps>
     </comp>
@@ -180,7 +180,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fe343c57-ef38-43b0-9540-bb2ab88f20a2</tstamps>
     </comp>
@@ -189,7 +189,7 @@
       <footprint>Mlab_R:SMD-0805</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>111d6f91-5668-4b38-bc94-1669708a8dd0</tstamps>
     </comp>
@@ -213,7 +213,7 @@
       <property name="Manufacturer_Name" value="Texas Instruments"/>
       <property name="Manufacturer_Part_Number" value="TPS631000DRLR"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>62455161-b067-4d41-8716-6cc3430152f1</tstamps>
     </comp>

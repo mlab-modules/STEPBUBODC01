@@ -3,14 +3,14 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "6.0.10+dfsg-1~bpo11+1"
+      "Version": "6.0.11+dfsg-1~bpo11+1"
     },
-    "CreationDate": "2023-01-24T16:04:12+00:00"
+    "CreationDate": "2023-07-05T12:11:03+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "STEPBUBODC01A",
-      "GUID": "53544550-4255-4424-9f44-433031412e6b",
+      "Name": "STEPBUBODC01",
+      "GUID": "53544550-4255-4424-9f44-4330312e6b69",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "STEPBUBODC01A-Edge_Cuts.gbr",
+      "Path": "STEPBUBODC01-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "STEPBUBODC01A-F_Cu.gbr",
+      "Path": "STEPBUBODC01-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "STEPBUBODC01A-B_Cu.gbr",
+      "Path": "STEPBUBODC01-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "STEPBUBODC01A-F_Mask.gbr",
+      "Path": "STEPBUBODC01-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "STEPBUBODC01A-B_Mask.gbr",
+      "Path": "STEPBUBODC01-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "STEPBUBODC01A-F_Silkscreen.gbr",
+      "Path": "STEPBUBODC01-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "STEPBUBODC01A-B_Silkscreen.gbr",
+      "Path": "STEPBUBODC01-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "STEPBUBODC01A-F_Paste.gbr",
+      "Path": "STEPBUBODC01-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "STEPBUBODC01A-B_Paste.gbr",
+      "Path": "STEPBUBODC01-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     }
