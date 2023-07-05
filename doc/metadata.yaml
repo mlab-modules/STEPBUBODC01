@@ -8,11 +8,16 @@ github_url: https://github.com/mlab-modules/STEPBUBODC01
 homepage: false
 image: doc/gen/img/STEPBUBODC01A-bottom.png
 images:
-- doc/gen/img/STEPBUBODC01A-top.png
-- doc/gen/img/STEPBUBODC01A-bottom.png
-- doc/gen/STEPBUBODC01A-schematic.svg
+- doc/gen/img/STEPBUBODC01-top.png
+- doc/gen/img/STEPBUBODC01-bottom.png
+- doc/gen/STEPBUBODC01-schematic.svg
+- doc/gen/img/STEPBUBODC01-bottom.svg
+- doc/gen/img/STEPBUBODC01-top.svg
+- hw/cam_profi/docs/STEPBUBODC01A-assembly_page_02.svg
+- hw/cam_profi/docs/STEPBUBODC01A-assembly_page_01.svg
 issues: 2
 mark: 50
-mod_scheme: doc/gen/STEPBUBODC01A-schematic.pdf
+mod_ibom: hw/cam_profi/ibom/STEPBUBODC01-ibom.html
+mod_scheme: doc/gen/STEPBUBODC01-schematic.pdf
 tags: []
 title: STEPBUBODC01
