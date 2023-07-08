@@ -1,0 +1,19 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C1","22uF","SMD-0805",139.4460,-83.5660,90.0000,bottom
+"C2","47uF","SMD-0805",144.5260,-83.5660,90.0000,bottom
+"C3","10uF","SMD-0805",146.5580,-83.5660,90.0000,bottom
+"H1","MountingHole_Pad","MountingHole_3mm",127.0000,-76.2000,0.0000,top
+"H2","MountingHole_Pad","MountingHole_3mm",157.4800,-96.5200,0.0000,top
+"H3","MountingHole_Pad","MountingHole_3mm",127.0000,-96.5200,0.0000,top
+"H4","MountingHole_Pad","MountingHole_3mm",157.4800,-76.2000,0.0000,top
+"J1","HEADER_1x03","Straight_1x03",137.1600,-76.2000,-90.0000,top
+"J2","HEADER_2x03_PARALLEL","Straight_2x03",127.0000,-86.3600,0.0000,top
+"J3","HEADER_1x03","Straight_1x03",137.1600,-96.5200,-90.0000,top
+"J4","HEADER_1x03","Straight_1x03",147.3200,-76.2000,-90.0000,top
+"J5","HEADER_2x03_PARALLEL","Straight_2x03",147.3200,-96.5200,-90.0000,top
+"J6","HEADER_2x03_PARALLEL","Straight_2x03",157.4800,-86.3600,0.0000,top
+"L1","1uH - DFE252012P-1R0M=P2","L_1008_2520Metric",141.9860,-86.6140,0.0000,bottom
+"R1","91k","SMD-0805",142.7480,-79.5020,90.0000,bottom
+"R2","511k","SMD-0805",145.5420,-78.9940,180.0000,bottom
+"R3","806k","SMD-0805",149.0980,-78.9940,0.0000,bottom
+"U1","TPS631000DRLR","SOTFL50P160X60-8N",141.9860,-83.8200,90.0000,bottom
