@@ -13,11 +13,11 @@ images:
 - doc/gen/STEPBUBODC01-schematic.svg
 - doc/gen/img/STEPBUBODC01-bottom.svg
 - doc/gen/img/STEPBUBODC01-top.svg
-- hw/cam_profi/docs/STEPBUBODC01A-assembly_page_01.svg
-- hw/cam_profi/docs/STEPBUBODC01A-assembly_page_02.svg
+- hw/cam_profi/assembly/STEPBUBODC01-assembly_page_02.svg
+- hw/cam_profi/assembly/STEPBUBODC01-assembly_page_01.svg
 issues: 2
 mark: 50
-mod_ibom: hw/cam_profi/ibom/STEPBUBODC01-ibom.html
+mod_ibom: hw/cam_profi/STEPBUBODC01-ibom.html
 mod_scheme: doc/gen/STEPBUBODC01-schematic.pdf
 tags:
 - mlab
