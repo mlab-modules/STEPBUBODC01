@@ -1,5 +1,5 @@
 # STEPBUBODC01A
-Buck-boost convertor TSP631000
+Buck-boost convertor [TPS631000](https://www.ti.com/lit/ds/symlink/tps631000.pdf)
 
 ![STEPBUBODC01A top PCB](doc/gen/img/STEPBUBODC01A-top.png)
 
