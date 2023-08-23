@@ -1,11 +1,11 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-"H1","MountingHole_Pad","MountingHole_3mm",127.0000,-76.2000,0.0000,top
-"H2","MountingHole_Pad","MountingHole_3mm",157.4800,-96.5200,0.0000,top
-"H3","MountingHole_Pad","MountingHole_3mm",127.0000,-96.5200,0.0000,top
-"H4","MountingHole_Pad","MountingHole_3mm",157.4800,-76.2000,0.0000,top
-"J1","HEADER_1x03","Straight_1x03",137.1600,-76.2000,-90.0000,top
-"J2","HEADER_2x03_PARALLEL","Straight_2x03",127.0000,-86.3600,0.0000,top
-"J3","HEADER_1x03","Straight_1x03",137.1600,-96.5200,-90.0000,top
-"J4","HEADER_1x03","Straight_1x03",147.3200,-76.2000,-90.0000,top
-"J5","HEADER_2x03_PARALLEL","Straight_2x03",147.3200,-96.5200,-90.0000,top
-"J6","HEADER_2x03_PARALLEL","Straight_2x03",157.4800,-86.3600,0.0000,top
+"H1","MountingHole_Pad","MountingHole_3mm",10.1600,30.4800,0.0000,top
+"H2","MountingHole_Pad","MountingHole_3mm",30.4800,30.4800,0.0000,top
+"H3","MountingHole_Pad","MountingHole_3mm",10.1600,10.1600,0.0000,top
+"H4","MountingHole_Pad","MountingHole_3mm",30.4800,10.1600,0.0000,top
+"J2","HEADER_2x03_PARALLEL","PinHeader_2x03_P2.54mm_Vertical",7.9600,23.1400,0.0000,top
+"J5","HEADER_2x03_PARALLEL","PinHeader_2x03_P2.54mm_Vertical",18.6250,7.9800,90.0000,top
+"J6","HEADER_2x03_PARALLEL","PinHeader_2x03_P2.54mm_Vertical",18.6250,13.0600,90.0000,top
+"JP1","Jumper_2_Open","PinHeader_1x02_P2.54mm_Vertical",22.3750,31.9150,0.0000,top
+"JP2","Jumper_2_Open","PinHeader_1x02_P2.54mm_Vertical",18.4500,31.9250,0.0000,top
+"JP4","HEADER_1x03","PinHeader_1x03_P2.54mm_Vertical",30.7000,23.6500,0.0000,top
