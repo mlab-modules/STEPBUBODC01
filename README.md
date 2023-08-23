@@ -1,6 +1,6 @@
 # STEPBUBODC01A
 Buck-boost convertor [TPS631000](https://www.ti.com/lit/ds/symlink/tps631000.pdf)
 
-![STEPBUBODC01A top PCB](doc/gen/img/STEPBUBODC01A-top.png)
 
-![STEPBUBODC01A bottom PCB](doc/gen/img/STEPBUBODC01A-bottom.png)
+<img src="doc/gen/img/STEPBUBODC01-top.png" width="49%"/> <img src="doc/gen/img/STEPBUBODC01-bottom.png" width="49%"/> 
+
