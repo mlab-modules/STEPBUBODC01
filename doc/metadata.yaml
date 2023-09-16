@@ -19,6 +19,7 @@ issues: 2
 mark: 50
 mod_ibom: hw/cam_profi/STEPBUBODC01-ibom.html
 mod_scheme: doc/gen/STEPBUBODC01-schematic.pdf
+status: 0
 tags:
 - mlab
 - mlab-module
