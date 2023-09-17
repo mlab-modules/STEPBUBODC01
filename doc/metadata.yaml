@@ -3,6 +3,7 @@ github_branch: STEPBUBODC01A
 github_branches:
 - STEPBUBODC01A
 - main
+github_description: Buck-boost convertor TSP631000
 github_repo: STEPBUBODC01
 github_url: https://github.com/mlab-modules/STEPBUBODC01
 homepage: false
@@ -30,4 +31,4 @@ tags:
 - pcb
 - mlab-power-supply
 title: STEPBUBODC01
-updated: '2023-09-17T07:18:17.208370+00:00'
+updated: '2023-09-17T11:31:18.742967+00:00'
