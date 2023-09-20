@@ -3,6 +3,8 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C2","47uF","C_0805_2012Metric",22.6500,22.8750,90.0000,bottom
 "C3","10uF","C_0805_2012Metric",24.7000,20.1750,0.0000,bottom
 "D1","M4","D_SMA",14.4500,18.9000,-90.0000,bottom
+"FID1","Fiducial","Fiducial_1mm_Mask2mm",15.0000,14.0000,180.0000,bottom
+"FID2","Fiducial","Fiducial_1mm_Mask2mm",25.0000,28.0000,180.0000,bottom
 "L1","1uH - DFE252012P-1R0M=P2","L_1008_2520Metric",20.1280,19.5770,0.0000,bottom
 "R1","91k","R_0805_2012Metric",25.4500,22.9125,90.0000,bottom
 "R2","511k","R_0805_2012Metric",27.8500,22.5375,90.0000,bottom
