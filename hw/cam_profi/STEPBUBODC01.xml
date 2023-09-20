@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/STEPBUBODC01.kicad_sch</source>
-    <date>Fri Jul 21 03:32:30 2023</date>
-    <tool>Eeschema 7.0.5.1-1-g8f565ef7f0-dirty-deb11</tool>
+    <date>Sun Sep 17 11:36:23 2023</date>
+    <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -26,7 +26,7 @@
   <components>
     <comp ref="C1">
       <value>22uF</value>
-      <footprint>Mlab_C:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
@@ -37,7 +37,7 @@
     </comp>
     <comp ref="C2">
       <value>47uF</value>
-      <footprint>Mlab_C:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
@@ -48,7 +48,7 @@
     </comp>
     <comp ref="C3">
       <value>10uF</value>
-      <footprint>Mlab_C:SMD-0805</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
@@ -59,6 +59,7 @@
     </comp>
     <comp ref="D1">
       <value>M4</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
       <libsource lib="Device" part="D" description="Diode"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
@@ -66,16 +67,6 @@
       <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7fa49260-a948-4b3b-8bfd-697e5aa0e35a</tstamps>
-    </comp>
-    <comp ref="F1">
-      <value>3A</value>
-      <libsource lib="Device" part="Fuse" description="Fuse"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
-      <property name="ki_description" value="Fuse"/>
-      <property name="ki_keywords" value="fuse"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>b35fb956-95ef-40e8-a0d0-51bf3458bf57</tstamps>
     </comp>
     <comp ref="H1">
       <value>MountingHole_Pad</value>
@@ -121,20 +112,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3920e254-d67f-42cd-a2d7-3fe0830a48bd</tstamps>
     </comp>
-    <comp ref="J1">
-      <value>HEADER_1x03</value>
-      <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
-      <libsource lib="MLAB_HEADER" part="HEADER_1x03" description="1x03 2.54 mm pitch header"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
-      <property name="ki_description" value="1x03 2.54 mm pitch header"/>
-      <property name="ki_keywords" value="1x03, header, connector, pinheader"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>2f88b315-f533-458b-ae3b-a280d2a72631</tstamps>
-    </comp>
     <comp ref="J2">
       <value>HEADER_2x03_PARALLEL</value>
-      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
@@ -143,31 +123,9 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>425ce6d6-240e-40a8-b232-4d7beb2f1088</tstamps>
     </comp>
-    <comp ref="J3">
-      <value>HEADER_1x03</value>
-      <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
-      <libsource lib="MLAB_HEADER" part="HEADER_1x03" description="1x03 2.54 mm pitch header"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
-      <property name="ki_description" value="1x03 2.54 mm pitch header"/>
-      <property name="ki_keywords" value="1x03, header, connector, pinheader"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>161829e0-d7c5-43ec-bf7d-9eeb70b03d5c</tstamps>
-    </comp>
-    <comp ref="J4">
-      <value>HEADER_1x03</value>
-      <footprint>Mlab_Pin_Headers:Straight_1x03</footprint>
-      <libsource lib="MLAB_HEADER" part="HEADER_1x03" description="1x03 2.54 mm pitch header"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
-      <property name="ki_description" value="1x03 2.54 mm pitch header"/>
-      <property name="ki_keywords" value="1x03, header, connector, pinheader"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>1c8944ee-ff0a-45f3-959b-f80be1d42ac6</tstamps>
-    </comp>
     <comp ref="J5">
       <value>HEADER_2x03_PARALLEL</value>
-      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
@@ -178,7 +136,7 @@
     </comp>
     <comp ref="J6">
       <value>HEADER_2x03_PARALLEL</value>
-      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
@@ -186,6 +144,39 @@
       <property name="ki_keywords" value="2x03, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>82582b14-dcb5-4776-bcb2-c1b33865dd4d</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>Jumper_2_Open</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2b65af7-ef38-4ae9-acbd-2a9db6421aa5</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>Jumper_2_Open</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>702d9d69-b806-4341-9e60-cc2cd0e7a665</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>HEADER_1x03</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Bridged12" description="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 3-pole, pins 1+2 closed/bridged"/>
+      <property name="ki_keywords" value="Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c8944ee-ff0a-45f3-959b-f80be1d42ac6</tstamps>
     </comp>
     <comp ref="L1">
       <value>1uH - DFE252012P-1R0M=P2</value>
@@ -200,7 +191,7 @@
     </comp>
     <comp ref="R1">
       <value>91k</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
@@ -211,7 +202,7 @@
     </comp>
     <comp ref="R2">
       <value>511k</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
@@ -222,7 +213,7 @@
     </comp>
     <comp ref="R3">
       <value>806k</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
@@ -230,6 +221,28 @@
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>111d6f91-5668-4b38-bc94-1669708a8dd0</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d780787-3649-4630-a2e2-0dcde8f5a285</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a3dc96a-e841-4a84-9f6c-025dad06d5b8</tstamps>
     </comp>
     <comp ref="U1">
       <value>TPS631000DRLR</value>
@@ -293,22 +306,6 @@
         <pin num="2" name="A" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Device" part="Fuse">
-      <description>Fuse</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>*Fuse*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">F</field>
-        <field name="Value">Fuse</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Device" part="L">
       <description>Inductor</description>
       <docs>~</docs>
@@ -344,16 +341,57 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="MLAB_HEADER" part="HEADER_1x03">
-      <description>1x03 2.54 mm pitch header</description>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
       <fields>
-        <field name="Reference">J</field>
-        <field name="Value">HEADER_1x03</field>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
-        <pin num="1" name="" type="input"/>
-        <pin num="2" name="" type="input"/>
-        <pin num="3" name="" type="input"/>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_2_Open">
+      <description>Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_3_Bridged12">
+      <description>Jumper, 3-pole, pins 1+2 closed/bridged</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*3Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_3_Bridged12</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL">
@@ -417,25 +455,37 @@
     <library logical="Device">
       <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
     </library>
+    <library logical="Jumper">
+      <uri>/usr/share/kicad/symbols//Jumper.kicad_sym</uri>
+    </library>
     <library logical="Mechanical">
       <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
     <net code="1" name="/FB">
-      <node ref="J4" pin="2" pintype="input"/>
+      <node ref="JP4" pin="2" pinfunction="C" pintype="passive"/>
       <node ref="R1" pin="1" pintype="passive"/>
       <node ref="U1" pin="8" pinfunction="FB" pintype="passive"/>
     </net>
-    <net code="2" name="/V_in">
+    <net code="2" name="/SEL_3v3">
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="/SEL_5v">
+      <node ref="JP4" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/V_in">
       <node ref="C1" pin="1" pintype="passive"/>
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="F1" pin="2" pintype="passive"/>
-      <node ref="J1" pin="3" pintype="input"/>
-      <node ref="J3" pin="3" pintype="input"/>
+      <node ref="J2" pin="3" pintype="input"/>
+      <node ref="J2" pin="4" pintype="input"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
       <node ref="U1" pin="4" pinfunction="VIN" pintype="passive"/>
     </net>
-    <net code="3" name="/V_out">
+    <net code="5" name="/V_out">
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="C3" pin="1" pintype="passive"/>
       <node ref="J5" pin="3" pintype="input"/>
@@ -446,15 +496,17 @@
       <node ref="R3" pin="1" pintype="passive"/>
       <node ref="U1" pin="1" pinfunction="VOUT" pintype="passive"/>
     </net>
-    <net code="4" name="/en">
-      <node ref="J1" pin="2" pintype="input"/>
+    <net code="6" name="/en">
+      <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
       <node ref="U1" pin="5" pinfunction="EN" pintype="passive"/>
     </net>
-    <net code="5" name="/mod">
-      <node ref="J3" pin="2" pintype="input"/>
+    <net code="7" name="/mod">
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
       <node ref="U1" pin="6" pinfunction="MODE" pintype="passive"/>
     </net>
-    <net code="6" name="GND">
+    <net code="8" name="GND">
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="C2" pin="2" pintype="passive"/>
       <node ref="C3" pin="2" pintype="passive"/>
@@ -463,12 +515,10 @@
       <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
       <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
       <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="J1" pin="1" pintype="input"/>
       <node ref="J2" pin="1" pintype="input"/>
       <node ref="J2" pin="2" pintype="input"/>
       <node ref="J2" pin="5" pintype="input"/>
       <node ref="J2" pin="6" pintype="input"/>
-      <node ref="J3" pin="1" pintype="input"/>
       <node ref="J5" pin="1" pintype="input"/>
       <node ref="J5" pin="2" pintype="input"/>
       <node ref="J5" pin="5" pintype="input"/>
@@ -477,27 +527,16 @@
       <node ref="J6" pin="2" pintype="input"/>
       <node ref="J6" pin="5" pintype="input"/>
       <node ref="J6" pin="6" pintype="input"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="U1" pin="7" pinfunction="GND" pintype="passive"/>
     </net>
-    <net code="7" name="Net-(F1-Pad1)">
-      <node ref="F1" pin="1" pintype="passive"/>
-      <node ref="J2" pin="3" pintype="input"/>
-      <node ref="J2" pin="4" pintype="input"/>
-    </net>
-    <net code="8" name="Net-(J4-Pad1)">
-      <node ref="J4" pin="1" pintype="input"/>
-      <node ref="R3" pin="2" pintype="passive"/>
-    </net>
-    <net code="9" name="Net-(J4-Pad3)">
-      <node ref="J4" pin="3" pintype="input"/>
-      <node ref="R2" pin="2" pintype="passive"/>
-    </net>
-    <net code="10" name="Net-(U1-LX1)">
+    <net code="9" name="Net-(U1-LX1)">
       <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="LX1" pintype="passive"/>
     </net>
-    <net code="11" name="Net-(U1-LX2)">
+    <net code="10" name="Net-(U1-LX2)">
       <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="2" pinfunction="LX2" pintype="passive"/>
     </net>
