@@ -57,7 +57,8 @@
         }
       ],
       "drc_exclusions": [
-        "courtyards_overlap|153654998|112990001|fb4e2389-6956-4f4f-82b8-0d326b8dcdd6|bf1c93bf-2aaf-4562-ae75-0b49aca52213"
+        "courtyards_overlap|147370000|91595001|900d9555-26f6-4dce-8b90-7ed18dec27e2|c9d0c59f-3799-42ce-b463-39a9b4e4e35a",
+        "courtyards_overlap|153654998|112990001|bf1c93bf-2aaf-4562-ae75-0b49aca52213|fb4e2389-6956-4f4f-82b8-0d326b8dcdd6"
       ],
       "meta": {
         "version": 2
@@ -96,7 +97,7 @@
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
@@ -451,7 +452,7 @@
       "step": "",
       "vrml": ""
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "../../doc/assets/templates/KiCAD/page_layout.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -486,7 +487,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "../../doc/assets/templates/KiCAD/page_layout.kicad_wks",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
