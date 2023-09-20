@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/STEPBUBODC01.kicad_sch</source>
-    <date>Wed Sep 20 21:01:31 2023</date>
+    <date>Wed Sep 20 21:09:30 2023</date>
     <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -28,11 +28,11 @@
       <value>22uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Height">650b58f1462c6d9e7205463b</field>
+        <field name="UST_ID">650b58f1462c6d9e7205463b</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value=""/>
-      <property name="Height" value="650b58f1462c6d9e7205463b"/>
+      <property name="UST_ID" value="650b58f1462c6d9e7205463b"/>
+      <property name="Height" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -44,11 +44,11 @@
       <value>47uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Height">5c70984812875079b91f8bbf</field>
+        <field name="UST_ID">5c70984812875079b91f8bbf</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Height" value="5c70984812875079b91f8bbf"/>
-      <property name="UST_ID" value=""/>
+      <property name="Height" value=""/>
+      <property name="UST_ID" value="5c70984812875079b91f8bbf"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -60,11 +60,11 @@
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <fields>
-        <field name="Height">5c70984712875079b91f8b53</field>
+        <field name="UST_ID">5c70984712875079b91f8b53</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Height" value="5c70984712875079b91f8b53"/>
-      <property name="UST_ID" value=""/>
+      <property name="Height" value=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b53"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -76,11 +76,11 @@
       <value>M4</value>
       <footprint>Diode_SMD:D_SMA</footprint>
       <fields>
-        <field name="Height">5c70984512875079b91f88ac</field>
+        <field name="UST_ID">5c70984512875079b91f88ac</field>
       </fields>
       <libsource lib="Device" part="D" description="Diode"/>
-      <property name="Height" value="5c70984512875079b91f88ac"/>
-      <property name="UST_ID" value=""/>
+      <property name="Height" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f88ac"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <property name="ki_description" value="Diode"/>
@@ -234,11 +234,11 @@
       <value>1uH - DFE252012P-1R0M=P2</value>
       <footprint>Inductor_SMD:L_1008_2520Metric</footprint>
       <fields>
-        <field name="Height">650b5977462c6d9e72054656</field>
+        <field name="UST_ID">650b5977462c6d9e72054656</field>
       </fields>
       <libsource lib="Device" part="L" description="Inductor"/>
-      <property name="UST_ID" value=""/>
-      <property name="Height" value="650b5977462c6d9e72054656"/>
+      <property name="UST_ID" value="650b5977462c6d9e72054656"/>
+      <property name="Height" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <property name="ki_description" value="Inductor"/>
@@ -250,11 +250,11 @@
       <value>91k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Height">650b59ec462c6d9e72054677</field>
+        <field name="UST_ID">650b59ec462c6d9e72054677</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Height" value="650b59ec462c6d9e72054677"/>
-      <property name="UST_ID" value=""/>
+      <property name="Height" value=""/>
+      <property name="UST_ID" value="650b59ec462c6d9e72054677"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -266,11 +266,11 @@
       <value>511k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Height">650b5a43462c6d9e7205468e</field>
+        <field name="UST_ID">650b5a43462c6d9e7205468e</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value=""/>
-      <property name="Height" value="650b5a43462c6d9e7205468e"/>
+      <property name="UST_ID" value="650b5a43462c6d9e7205468e"/>
+      <property name="Height" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -282,11 +282,11 @@
       <value>806k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Height">650b5abb462c6d9e720546b8</field>
+        <field name="UST_ID">650b5abb462c6d9e720546b8</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value=""/>
-      <property name="Height" value="650b5abb462c6d9e720546b8"/>
+      <property name="UST_ID" value="650b5abb462c6d9e720546b8"/>
+      <property name="Height" value=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -298,11 +298,11 @@
       <value>1k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Height">5c70984512875079b91f898c</field>
+        <field name="UST_ID">5c70984512875079b91f898c</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="Height" value="5c70984512875079b91f898c"/>
-      <property name="UST_ID" value=""/>
+      <property name="Height" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f898c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -314,11 +314,11 @@
       <value>1k</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <fields>
-        <field name="Height">5c70984512875079b91f898c</field>
+        <field name="UST_ID">5c70984512875079b91f898c</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="Height" value="5c70984512875079b91f898c"/>
-      <property name="UST_ID" value=""/>
+      <property name="Height" value=""/>
+      <property name="UST_ID" value="5c70984512875079b91f898c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <property name="ki_description" value="Resistor, small symbol"/>
@@ -332,20 +332,20 @@
       <datasheet>https://www.ti.com/lit/ds/symlink/tps631000.pdf?ts=1652152702265</datasheet>
       <fields>
         <field name="Description">Switching Voltage Regulators 1.5-A output current, high power density buck-boost converter</field>
-        <field name="Height">63de5ae4ae0b2d5aa05e2714</field>
         <field name="Manufacturer_Name">Texas Instruments</field>
         <field name="Manufacturer_Part_Number">TPS631000DRLR</field>
         <field name="Mouser Part Number">595-TPS631000DRLR</field>
         <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS631000DRLR?qs=rSMjJ%252B1ewcRYwoN2deTeNA%3D%3D</field>
+        <field name="UST_ID">63de5ae4ae0b2d5aa05e2714</field>
       </fields>
       <libsource lib="TPS631000DRLR" part="TPS631000DRLR" description="Switching Voltage Regulators 1.5-A output current, high power density buck-boost converter"/>
       <property name="Description" value="Switching Voltage Regulators 1.5-A output current, high power density buck-boost converter"/>
-      <property name="Height" value="63de5ae4ae0b2d5aa05e2714"/>
+      <property name="Height" value=""/>
       <property name="Mouser Part Number" value="595-TPS631000DRLR"/>
       <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS631000DRLR?qs=rSMjJ%252B1ewcRYwoN2deTeNA%3D%3D"/>
       <property name="Manufacturer_Name" value="Texas Instruments"/>
       <property name="Manufacturer_Part_Number" value="TPS631000DRLR"/>
-      <property name="UST_ID" value=""/>
+      <property name="UST_ID" value="63de5ae4ae0b2d5aa05e2714"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STEPBUBODC01.kicad_sch"/>
       <property name="ki_description" value="Switching Voltage Regulators 1.5-A output current, high power density buck-boost converter"/>
