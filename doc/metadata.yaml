@@ -14,11 +14,11 @@ images:
 - doc/gen/STEPBUBODC01-schematic.svg
 - doc/gen/img/STEPBUBODC01-top.svg
 - doc/gen/img/STEPBUBODC01-bottom.svg
-- hw/cam_profi/docs/STEPBUBODC01A-assembly_page_02.svg
-- hw/cam_profi/docs/STEPBUBODC01A-assembly_page_01.svg
+- hw/cam_profi/assembly/STEPBUBODC01-assembly_page_02.svg
+- hw/cam_profi/assembly/STEPBUBODC01-assembly_page_01.svg
 issues: 2
 mark: 50
-mod_ibom: hw/cam_profi/ibom/STEPBUBODC01-ibom.html
+mod_ibom: hw/cam_profi/STEPBUBODC01-ibom.html
 mod_scheme: doc/gen/STEPBUBODC01-schematic.pdf
 status: 2
 tags:
@@ -31,4 +31,4 @@ tags:
 - pcb
 - mlab-power-supply
 title: STEPBUBODC01
-updated: '2023-09-20T21:18:00.001500+00:00'
+updated: '2023-09-20T21:20:49.784808+00:00'
