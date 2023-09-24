@@ -11,4 +11,4 @@ Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
 10,Resistor,R,R1,91k,R_0805_2012Metric,1,~,650b59ec462c6d9e72054677,,,,
 11,Resistor,R,R2,511k,R_0805_2012Metric,1,~,650b5a43462c6d9e7205468e,,,,
 12,Resistor,R,R3,806k,R_0805_2012Metric,1,~,650b5abb462c6d9e720546b8,,,,
-13,"Switching Voltage Regulators 1.5-A output current, high power density buck-boost converter",TPS631000DRLR,U1,TPS631000DRLR,SOTFL50P160X60-8N,1,https://www.ti.com/lit/ds/symlink/tps631000.pdf?ts=1652152702265,63de5ae4ae0b2d5aa05e2714,Texas Instruments,TPS631000DRLR,595-TPS631000DRLR,https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS631000DRLR?qs=rSMjJ%252B1ewcRYwoN2deTeNA%3D%3D
+13,"Switching Voltage Regulators 1.5-A output current, high power density buck-boost converter",TPS631000DRLR,U1,TPS631000DRLR,TPS631000,1,https://www.ti.com/lit/ds/symlink/tps631000.pdf?ts=1652152702265,63de5ae4ae0b2d5aa05e2714,Texas Instruments,TPS631000DRLR,595-TPS631000DRLR,https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS631000DRLR?qs=rSMjJ%252B1ewcRYwoN2deTeNA%3D%3D
