@@ -1474,7 +1474,7 @@
     (property "Value" "TPS631000DRLR" (at 130.81 96.52 90)
       (effects (font (size 1 1)) (justify left))
     )
-    (property "Footprint" "KiCad:SOTFL50P160X60-8N" (at 143.51 106.68 0)
+    (property "Footprint" "Mlab_IO:TPS631000" (at 143.51 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps631000.pdf?ts=1652152702265" (at 140.97 106.68 0)

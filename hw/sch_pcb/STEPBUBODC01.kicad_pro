@@ -57,8 +57,7 @@
         }
       ],
       "drc_exclusions": [
-        "courtyards_overlap|147370000|91595001|900d9555-26f6-4dce-8b90-7ed18dec27e2|c9d0c59f-3799-42ce-b463-39a9b4e4e35a",
-        "courtyards_overlap|153654998|112990001|bf1c93bf-2aaf-4562-ae75-0b49aca52213|fb4e2389-6956-4f4f-82b8-0d326b8dcdd6"
+        "courtyards_overlap|147370000|91595001|900d9555-26f6-4dce-8b90-7ed18dec27e2|c9d0c59f-3799-42ce-b463-39a9b4e4e35a"
       ],
       "meta": {
         "version": 2
@@ -119,7 +118,7 @@
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.0,
+        "min_copper_edge_clearance": 0.5,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
