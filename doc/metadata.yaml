@@ -9,13 +9,13 @@ github_url: https://github.com/mlab-modules/STEPBUBODC01
 homepage: false
 image_title: doc/gen/img/STEPBUBODC01-top.png
 images:
-- doc/gen/img/STEPBUBODC01-bottom.png
 - doc/gen/img/STEPBUBODC01-top.png
+- doc/gen/img/STEPBUBODC01-bottom.png
 - doc/gen/STEPBUBODC01-schematic.svg
-- doc/gen/img/STEPBUBODC01-top.svg
 - doc/gen/img/STEPBUBODC01-bottom.svg
-- hw/cam_profi/assembly/STEPBUBODC01-assembly_page_02.svg
+- doc/gen/img/STEPBUBODC01-top.svg
 - hw/cam_profi/assembly/STEPBUBODC01-assembly_page_01.svg
+- hw/cam_profi/assembly/STEPBUBODC01-assembly_page_02.svg
 issues: 2
 mark: 50
 mod_ibom: hw/cam_profi/STEPBUBODC01-ibom.html
@@ -31,4 +31,4 @@ tags:
 - pcb
 - mlab-power-supply
 title: STEPBUBODC01
-updated: '2023-09-24T08:55:37.828364+00:00'
+updated: '2023-10-04T14:03:52.261322+00:00'
